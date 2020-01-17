@@ -10,7 +10,7 @@ NTPPIS 12 <br />
 2. Substitution-Cipher
 
 
-## Substitution Cipher
+## Substitution Cipher Note
 <br />
 keyspace key is permutation of alphabets = Φ <br />
 P = C = set of English Alphabets = A <br />
