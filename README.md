@@ -27,7 +27,7 @@ The RSA algorithm holds the following features −
 You will have to go through the following steps to work on RSA algorithm :
 <ul>
 <li>
-  <b> Step 1: Generate the RSA modulus : </b>
+  <b> Step 1: Generate the RSA modulus : </b><br>
 The initial procedure begins with selection of two prime numbers namely p and q, and then calculating their product N, as shown −
 
 `N=p*q` <br><br>
