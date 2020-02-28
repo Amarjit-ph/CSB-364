@@ -18,7 +18,7 @@ NTPPIS 12 <br />
 RSA algorithm is a public key encryption technique and is considered as the most secure way of encryption. <br>
 It was invented by Rivest, Shamir and Adleman in year 1978 and hence name RSA algorithm.
 
-### Algorithm
+### Algorithm :
 The RSA algorithm holds the following features −
 1. RSA algorithm is a popular exponentiation in a finite field over integers including prime numbers.
 2. The integers used by this method are sufficiently large making it difficult to solve.
