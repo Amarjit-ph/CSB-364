@@ -25,37 +25,36 @@ The RSA algorithm holds the following features −
 3. There are two sets of keys in this algorithm: private key and public key.
 
 You will have to go through the following steps to work on RSA algorithm :
-
 <ul>
 <li>
-Step 1: Generate the RSA modulus
+  <b> Step 1:Generate the RSA modulus : </b>
 The initial procedure begins with selection of two prime numbers namely p and q, and then calculating their product N, as shown −
 
-`N=p*q` <br>
+`N=p*q` <br><br>
 Here, let N be the specified large number.
 </li>
 
 <li>
-Step 2: Derived Number (e)
+<b>Step 2: Derived Number (e) : </b><br>
 Consider number e as a derived number which should be greater than 1 and less than (p-1) and (q-1).<br>
 The primary condition will be that there should be no common factor of (p-1) and (q-1) except 1
 </li>
 <li>
-Step 3: Public key
+<b>Step 3: Public key : </b><br>
 The specified pair of numbers n and e forms the RSA public key and it is made public.
 </li>
 <li>
-Step 4: Private Key
+<b>Step 4: Private Key </b>
 Private Key d is calculated from the numbers p, q and e. The mathematical relationship between the numbers is as follows −
 
 `ed = 1 mod (p-1) (q-1)` <br>
 The above formula is the basic formula for Extended Euclidean Algorithm, which takes p and q as the input parameters.
 
-Encryption Formula
+Encryption Formula :<br>
 Consider a sender who sends the plain text message to someone whose public key is (n,e). To encrypt the plain text message in the given scenario, use the following syntax −
 
-`C = Pe mod n`<br>
-Decryption Formula
+`C = Pe mod n`<br><br>
+Decryption Formula : <br>
 The decryption process is very straightforward and includes analytics for calculation in a systematic approach. Considering receiver C has the private key d, the result modulus will be calculated as −
 
 `Plaintext = Cd mod n`
