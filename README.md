@@ -24,7 +24,7 @@ The RSA algorithm holds the following features −
 2. The integers used by this method are sufficiently large making it difficult to solve.
 3. There are two sets of keys in this algorithm: private key and public key.
 
-You will have to go through the following steps to work on RSA algorithm −
+You will have to go through the following steps to work on RSA algorithm :
 
 <ul>
 <li>
