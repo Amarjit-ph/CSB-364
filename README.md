@@ -46,17 +46,17 @@ The specified pair of numbers n and e forms the RSA public key and it is made pu
 </li>
 <br>
 <li>
-<b>Step 4: Private Key </b>
+<b>Step 4: Private Key :</b><br>
 Private Key d is calculated from the numbers p, q and e. The mathematical relationship between the numbers is as follows −
 
 `ed = 1 mod (p-1) (q-1)` <br>
 The above formula is the basic formula for Extended Euclidean Algorithm, which takes p and q as the input parameters.
 
-Encryption Formula :<br>
+<b>Encryption Formula :</b><br>
 Consider a sender who sends the plain text message to someone whose public key is (n,e). To encrypt the plain text message in the given scenario, use the following syntax −
 
 `C = Pe mod n`<br><br>
-Decryption Formula : <br>
+<b>Decryption Formula :</b><br>
 The decryption process is very straightforward and includes analytics for calculation in a systematic approach. Considering receiver C has the private key d, the result modulus will be calculated as −
 
 `Plaintext = Cd mod n`
