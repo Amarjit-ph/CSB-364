@@ -20,9 +20,9 @@ It was invented by Rivest, Shamir and Adleman in year 1978 and hence name RSA al
 
 ### Algorithm
 The RSA algorithm holds the following features −
-* RSA algorithm is a popular exponentiation in a finite field over integers including prime numbers.
-* The integers used by this method are sufficiently large making it difficult to solve.
-* There are two sets of keys in this algorithm: private key and public key.
+1. RSA algorithm is a popular exponentiation in a finite field over integers including prime numbers.
+2. The integers used by this method are sufficiently large making it difficult to solve.
+3. There are two sets of keys in this algorithm: private key and public key.
 
 You will have to go through the following steps to work on RSA algorithm −
 
