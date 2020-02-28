@@ -31,7 +31,7 @@ You will have to go through the following steps to work on RSA algorithm :
 Step 1: Generate the RSA modulus
 The initial procedure begins with selection of two prime numbers namely p and q, and then calculating their product N, as shown −
 
-`N=p*q`
+`N=p*q` <br>
 Here, let N be the specified large number.
 </li>
 
@@ -48,13 +48,13 @@ The specified pair of numbers n and e forms the RSA public key and it is made pu
 Step 4: Private Key
 Private Key d is calculated from the numbers p, q and e. The mathematical relationship between the numbers is as follows −
 
-`ed = 1 mod (p-1) (q-1)`
+`ed = 1 mod (p-1) (q-1)` <br>
 The above formula is the basic formula for Extended Euclidean Algorithm, which takes p and q as the input parameters.
 
 Encryption Formula
 Consider a sender who sends the plain text message to someone whose public key is (n,e). To encrypt the plain text message in the given scenario, use the following syntax −
 
-`C = Pe mod n`
+`C = Pe mod n`<br>
 Decryption Formula
 The decryption process is very straightforward and includes analytics for calculation in a systematic approach. Considering receiver C has the private key d, the result modulus will be calculated as −
 
