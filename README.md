@@ -14,6 +14,10 @@ NTPPIS 12 <br />
 3. [Hill Cipher](https://github.com/Amarjit-pheiroijam/informationSecurity-Lab/blob/master/P3.cpp)
 4. [Deffie Hellman](https://github.com/Amarjit-pheiroijam/informationSecurity-Lab/blob/master/P6.cpp)
 5. [RSA Algorithm](https://github.com/Amarjit-pheiroijam/informationSecurity-Lab/blob/master/P4.cpp)
-6. [Playfair]()
+6. Playfair
+7. MD5
+8. SHA1
+9. Generate Digital Certificate
+
 ## Theory
 1. [RSA Algorithm](https://github.com/Amarjit-pheiroijam/informationSecurity-Lab/blob/master/Theory/readme.md)
