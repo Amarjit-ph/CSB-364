@@ -1,12 +1,10 @@
-# INFORMATION SECURITY
-### BACHELOR FOR TECHNOLOGY COMPUTER SCIENCE AND ENGINEERING
-## CHANDIGARH UNIVERSITY
+## CSB-364 Information Security Lab
 
+Bachelor of Engineering<br/>
+Computer Science & Engineering<br/>
+<b>CHANDIGARH UNIVERSITY</b>
 
-<b>AMARJIT PHEIROIJAM </b><br />
-17BCS2198 <br/>
-BE CSE <br />
-NTPPIS 12 <br />
+SEMESTER 6
 
 ## Practical Experiments
 1. [Ceaser-Cipher](https://github.com/Amarjit-pheiroijam/informationSecurity-Lab/blob/master/P1.cpp)
